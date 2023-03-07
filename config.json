@@ -1,0 +1,13 @@
+{
+    "No": 100,
+    "Nh": 50, 
+    "num_encoder_features":10,
+    "num_corrupted_users": 10,
+    "corrupt_bad_probability": 0.5,
+    "num_episodes": 30,
+    "c_update": 2,
+    "eps_start": 0.1,
+    "eps_end": 0.01,
+    "eps_decay": 200,
+    "train_split": 0.7
+}

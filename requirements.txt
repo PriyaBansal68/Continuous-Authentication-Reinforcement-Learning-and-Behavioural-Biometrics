@@ -1,0 +1,8 @@
+torch
+gym
+pandas
+scikit-learn
+keyboard
+matplotlib
+seaborn
+tqdm
