@@ -1,3 +1,6 @@
+#raw data set was taken from 
+https://ieee-dataport.org/open-access/su-ais-bb-mas-syracuse-university-and-assured-information-security-behavioral-biometrics
+
 # Keystrokes RL
 
 ## Environment setup
